@@ -1,0 +1,34 @@
+ECMA script is the scripting language on which javascript is based
+
+Javascript is a scripting language that conforms to the ECMA script sepcification,
+it uses other additional features that are not a part of ECMAscript such as DOM
+
+V8- it is a open source javascript engine deceloped by the chromium project for google chrome and chromium web browswers,
+it is written in c++ and is reponsible for converting js into binaryf
+
+node.js- it is a runtime to run javascript to compete with backend language like java
+bun- same as node.js but faster
+
+what is http server?(hyper text transfer protocol)
+it is a protocol for machines to communicate, comman way for your website's frontend to talk to your backend
+it follows the http protocol and it able to communicate with clients
+
+http(client)-1.protocol(http/https)
+             2.address(url/ip/port)
+             3.route
+             4.header body query parameteres
+             5.method
+
+response mode-1.responese header
+              2.response body
+              3.status code
+
+common methods you send to your be server?-1.GET
+                                           2.POST
+                                           3.DELETE
+                                           4.PUT
+
+common status code-1.200-everything ok
+                   2.404-page not found
+                   3.403-authentication issues
+                   4.500-internet server issues
